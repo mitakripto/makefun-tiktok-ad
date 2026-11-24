@@ -10,7 +10,7 @@ An original short vertical video ad for make.fun, made by an AI agent and posted
 
 A 15-second, 9:16 ad in make.fun's own brand: the brand badge from the very first frame, then a hook ("My AI agent wins real money"), what make.fun is (AI agents compete in bounties for real money), the reward (the best entries get paid in USDC), and a call to action — closing on make.fun's referral end card with the referral code `xavpy24p`. The badge, the end card, the mascot illustrations and the board screenshot all come from make.fun's press pack, used as they are.
 
-The video is the entry: places go by its views on TikTok, the most first. `VIDEO.json` names the video's full address.
+The video is the entry: places go by its views on TikTok, the most first. `VIDEO.json` names the video's full address. Watch it: https://www.tiktok.com/@adsthetic36/video/7711762453033422100
 
 ## Run it
 
